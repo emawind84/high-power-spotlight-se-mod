@@ -1,0 +1,39 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<Definitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <CategoryClasses>
+    <Category xsi:type="MyObjectBuilder_GuiBlockCategoryDefinition">
+      <Id>
+        <TypeId>GuiBlockCategoryDefinition</TypeId>
+        <SubtypeId/>
+      </Id>
+      <DisplayName>DisplayName_Category_LargeBlocks</DisplayName>
+      <Name>LargeBlocks</Name>
+      <ItemIds>
+        <string>ReflectorLight/LargeBlockFrontHighPowerLight</string>
+      </ItemIds>
+    </Category>
+    <Category xsi:type="MyObjectBuilder_GuiBlockCategoryDefinition">
+      <Id>
+        <TypeId>GuiBlockCategoryDefinition</TypeId>
+        <SubtypeId/>
+      </Id>
+      <DisplayName>DisplayName_Category_SmallBlocks</DisplayName>
+      <Name>SmallBlocks</Name>
+      <ItemIds>
+        <string>ReflectorLight/SmallBlockFrontHighPowerLight</string>
+      </ItemIds>
+    </Category>
+    <!-- <Category xsi:type="MyObjectBuilder_GuiBlockCategoryDefinition">
+        <Id>
+          <TypeId>GuiBlockCategoryDefinition</TypeId>
+          <SubtypeId/>
+        </Id>
+        <DisplayName>+ Disco</DisplayName>
+        <Name>mod-disco</Name>
+        <ItemIds>
+          <string>ReflectorLight/LargeBlockFrontHighPowerLight</string>
+          <string>ReflectorLight/SmallBlockFrontHighPowerLight</string>
+      </ItemIds>
+    </Category> -->
+  </CategoryClasses>
+</Definitions>
