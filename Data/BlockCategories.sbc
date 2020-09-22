@@ -23,17 +23,17 @@
         <string>ReflectorLight/SmallBlockFrontHighPowerLight</string>
       </ItemIds>
     </Category>
-    <!-- <Category xsi:type="MyObjectBuilder_GuiBlockCategoryDefinition">
+    <Category xsi:type="MyObjectBuilder_GuiBlockCategoryDefinition">
         <Id>
           <TypeId>GuiBlockCategoryDefinition</TypeId>
           <SubtypeId/>
         </Id>
-        <DisplayName>+ Disco</DisplayName>
-        <Name>mod-disco</Name>
+        <DisplayName>+ Helion Tech</DisplayName>
+        <Name>heliontech</Name>
         <ItemIds>
           <string>ReflectorLight/LargeBlockFrontHighPowerLight</string>
           <string>ReflectorLight/SmallBlockFrontHighPowerLight</string>
       </ItemIds>
-    </Category> -->
+    </Category>
   </CategoryClasses>
 </Definitions>

@@ -6,7 +6,7 @@
         <TypeId>ReflectorLight</TypeId>
         <SubtypeId>LargeBlockFrontHighPowerLight</SubtypeId>
       </Id>
-      <DisplayName>High-power Spotlight</DisplayName>
+      <DisplayName>High Power Spotlight</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\HighPowerLight.dds</Icon>
       <Description>Description_ReflectorLight</Description>
       <CubeSize>Large</CubeSize>
@@ -61,7 +61,7 @@
         <TypeId>ReflectorLight</TypeId>
         <SubtypeId>SmallBlockFrontHighPowerLight</SubtypeId>
       </Id>
-      <DisplayName>High-power Spotlight</DisplayName>
+      <DisplayName>High Power Spotlight</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\HighPowerLight.dds</Icon>
       <Description>Description_ReflectorLight</Description>
       <CubeSize>Small</CubeSize>
